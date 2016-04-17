@@ -1,0 +1,6 @@
+{
+  "name": "Web-crawler",
+  "tagline": "Aim of the project is to build a Web Crawler in python that returns a list of pages according to page rank for a keyword.",
+  "body": "# Web-Crawler\r\nA Web crawler is an Internet bot which systematically browses the World Wide Web, typically for the purpose of Web indexing.\r\n\r\nWeb search engines and some other sites use Web crawling or spidering software to update their web content or indexes of others sites' web content. Web crawlers can copy all the pages they visit for later processing by a search engine which indexes the downloaded pages so the users can search much more efficiently.\r\n\r\nA Web crawler starts with a list of URLs to visit, called the seeds. As the crawler visits these URLs, it identifies all the hyperlinks in the page and adds them to the list of URLs to visit, called the crawl frontier. URLs from the frontier are recursively visited according to a set of policies. If the crawler is performing archiving of websites it copies and saves the information as it goes. The archives are usually stored in such a way they can be viewed, read and navigated as they were on the live web, but are preserved as ‘snapshots'\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
